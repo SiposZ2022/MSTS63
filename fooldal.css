@@ -57,5 +57,6 @@ li a:hover:not(.active) {
 .felso
 {
     background-color: transparent;
-    height: 75%;
+    height: auto;
+    padding-bottom: 40%;
 }

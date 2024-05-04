@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("MSTS.jpg");
+    background-image: url('MSTS.jpg');
     height: auto;
     width: auto;
 }

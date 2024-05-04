@@ -1,8 +1,7 @@
 body
 {
     background-image: url(MSTS.jpg);
-    height: auto;
-    width: auto;
+    background-size:100% 100%;
 }
 
 #ulb {
